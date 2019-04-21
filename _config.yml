@@ -10,14 +10,14 @@ highlighter: rouge
 #
 title : simple site
 author :
-  name : Karl Broman
-  email : kbroman@gmail.com
-  github : kbroman
-  twitter : kwbroman
+  name : Zulkarnain Hassan
+  email : zulkarnain.hassan87@gmail.com
+  github : nil
+  twitter : nil
   feedburner : nil
 
 # NOTE: Replacing this next line with your own URL
-production_url : https://kbroman.github.io/simple_site
+production_url : hhttps://zulkarnainh.github.io/website2/
 
 # Tell Github to use the kramdown markdown interpreter
 # (see https://help.github.com/articles/migrating-your-pages-site-from-maruku)
